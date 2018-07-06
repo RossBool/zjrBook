@@ -8,5 +8,5 @@
 
 ## phpstorm使用手册
 
-* [phpstrom配置](phpstrompei-zhi.md)
+* [phpstrom激活方法](phpstrompei-zhi.md)
 
